@@ -6,6 +6,6 @@
 
     $msg = 'Sum of x+y = ';
 
-    print($msg.$z);
+    echo 'Message = ' .$msg;
 
 ?>
